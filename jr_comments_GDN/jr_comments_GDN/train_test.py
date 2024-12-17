@@ -191,6 +191,7 @@ def get_score(test_result, val_result,report):
         print(f'recall: {info[2]}\n') 
         print('sc')
         print('')
+        print('as')
 
     
     
