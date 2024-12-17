@@ -43,6 +43,8 @@ test_dataloader, test_dataset, train_dataset, full_edges):
 
     dataloader = train_dataloader
 
+    print('skdl')
+
     for i_epoch in range(epoch):
 
         acu_loss = 0
