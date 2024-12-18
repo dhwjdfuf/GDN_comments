@@ -192,7 +192,6 @@ def get_score(test_result, val_result,report):
         print('sc')
         print('')
         print('as')
-        print('s')
 
     
     
